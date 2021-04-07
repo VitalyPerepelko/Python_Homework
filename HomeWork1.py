@@ -1,5 +1,5 @@
 #Task1 
-
+#add_solution
 print("Промежуток времени в зависимости от его продолжительности: ")
 duration = int(input())
 second_in_minute = 60
